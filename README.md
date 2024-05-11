@@ -1,4 +1,4 @@
-# PRODIGY-DS-01
+# PRODIGY-DS-02
 
 # Exploratory Data Analysis on Titanic Dataset
 
