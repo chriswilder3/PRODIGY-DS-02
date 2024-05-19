@@ -19,7 +19,7 @@ The project starts with loading necessary libraries and importing the dataset us
 import pandas as pd
 
 # Loading the dataset
-data = pd.read_csv('/kaggle/input/titanic/train.csv')
+data = pd.read_csv('train.csv')
 ````
 ## Data Exploration
 
